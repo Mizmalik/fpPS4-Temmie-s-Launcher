@@ -61,8 +61,8 @@
 		"dumpStatus_OK": "Parfait",
 		"dumpStatus_WARN": "Fichiers manquants",
 		"dumpStatus_HB": "Homebrew",
-		"updateEmuWorkflow404": "",
-		"updater_noWorkflowListAvailable": ""
+		"updateEmuWorkflow404": "ERRO - (Updater) Il n'a pas été possible de localiser le CI sélectionné dans la liste des workflows GitHub !",
+		"updater_noWorkflowListAvailable": "Il n'a pas été possible d'obtenir la liste CI !"
 	},
 
 	"input_text": {
